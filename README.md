@@ -2,4 +2,4 @@
 Javascript API to translate between Devnagari and IAST
 Proposed Features
 * Convert from Dev to IAST
-* Convert from IAST to Dev
+* Convert from IAST to Dev (TODO)
